@@ -1,6 +1,6 @@
 {
   "name": "header-parse",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parse RFC822-compliant (and similar) headers.",
   "main": "header-parse.js",
   "directories": {
